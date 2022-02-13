@@ -4,4 +4,4 @@ This repository outlies the shopping cart functionality I have implemented in We
 
 Users can add items to the shopping cart, and each addition of items are sent to the backend, and a new cart is created for that user.
 
-Users can empty out the cart, or remove certain items from it.
+Users can empty out the cart, or remove certain items from it. When a user logs in, their cart information is fetched from the database.
